@@ -1,4 +1,4 @@
-# Hey, I’m RA — usually Tarkil around here
+# Hey, I’m RA
 
 I build things when the available options are missing, awkward, or insufficiently self-hosted.
 
